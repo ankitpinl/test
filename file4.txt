@@ -1,1 +1,2 @@
 This is some woodo stuff right here my man
+Line2 in file4.txt
