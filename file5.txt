@@ -1,2 +1,0 @@
-This is file.txt created in newfeature branch.
-new line
